@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "843791264422",
+    "firebase_url": "https://ioio-80f80-default-rtdb.firebaseio.com",
+    "project_id": "ioio-80f80",
+    "storage_bucket": "ioio-80f80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843791264422:android:0e17508097344e08966267",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843791264422-8ah0m7tb8ca3prb1dvnlgel4b5tmvoit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI0lb6_5PwP-dCuaSqLfNMUbiyxGBDu2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843791264422-8ah0m7tb8ca3prb1dvnlgel4b5tmvoit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843791264422-attorgs20mtk3jd5u5u23bgeuvdremlk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
