@@ -60,16 +60,24 @@ Export generated Flutter code.
 
 To run the app locally:
 
+```bash
 git clone https://github.com/mohamed12339/Middle-App
-cd the middle
+cd The middle
 flutter pub get
+```
+Firebase Configuration:
+Add google-services.json (Android) and GoogleService-Info.plist (iOS) from your Firebase project.
 
 For iOS:
-cd ios
-pod install
+```bash
+cd ios
+pod install
+```
 
 # Run the App:
+```bash
 flutter run
+```
 
 Test on emulator/device. Use Firebase Console to add sample data (e.g., products like "PlayStation 5" with images, orders with dates/prices).
 That's it! Customize themes, add push notifications via FCM, or expand to payments (e.g., integrate Stripe for EGP).
@@ -93,10 +101,11 @@ Create a new branch
 Commit clean and well-tested code
 Open a Pull Request 🚀
 
-🙏 Acknowledgments
+# 🙏 Acknowledgments
 Thanks to FlutterFlow for UI magic  and Firebase for scalable backend.
 Big thanks to the open-source community 💙. Inspired by OLX's marketplace model with a mediated delivery twist.
-📬 Contact
+
+# 📬 Contact
 Built by Mohamed Magdy and omarEsam and sehabEldin and HassanSami and AliYassin
 📧 Email: mhoda7891@gmail.com
 📱 Phone: +201111641701
