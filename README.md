@@ -85,7 +85,7 @@ Open a Pull Request 🚀
 Thanks to FlutterFlow for UI magic  and Firebase for scalable backend.
 Big thanks to the open-source community 💙. Inspired by OLX's marketplace model with a mediated delivery twist.
 📬 Contact
-Built by Mohamed Magdy and omarEsam and sehabEldin and HassanSami
+Built by Mohamed Magdy and omarEsam and sehabEldin and HassanSami and AliYassin
 📧 Email: mhoda7891@gmail.com
 📱 Phone: +201111641701
 🔗 GitHub: https://github.com/mohamed12339
