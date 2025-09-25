@@ -58,11 +58,23 @@ Add actions: Real-time queries for orders/chats, form validations, navigation.
 Export generated Flutter code.
 
 
-# Local Setup (Post-Export):
-textgit clone <(https://github.com/mohamed12339/Middle-App)>  
-cd the_middle
+To run the app locally:
+
+git clone https://github.com/mohamed12339/Middle-App
+cd the middle
 flutter pub get
 
+For iOS:
+cd ios
+pod install
+
+# Run the App:
+flutter run
+
+Test on emulator/device. Use Firebase Console to add sample data (e.g., products like "PlayStation 5" with images, orders with dates/prices).
+That's it! Customize themes, add push notifications via FCM, or expand to payments (e.g., integrate Stripe for EGP).
+Feel free to run this setup, edit it, and use any part of it in your own projects.
+And don’t forget to ⭐ star the repo if you liked it!
 
 # 🔌 Backend Usage
 Powered by Firebase:
