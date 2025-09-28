@@ -101,6 +101,11 @@ Create a new branch
 Commit clean and well-tested code
 Open a Pull Request 🚀
 
+## 📄 License
+
+This project is licensed under the CIC License.  
+Feel free to use, modify, and share the code with credit.
+
 # 🙏 Acknowledgments
 Thanks to FlutterFlow for UI magic  and Firebase for scalable backend.
 Big thanks to the open-source community 💙. Inspired by OLX's marketplace model with a mediated delivery twist.
